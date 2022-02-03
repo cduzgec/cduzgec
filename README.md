@@ -7,7 +7,7 @@ I am Ceyda. A junior software engineer who recently graduated.
 - 📫 How to reach me: slide into my DM's.. just kidding email me pls 
 - 😄 Pronouns: she/her 
 
-* Skills: Languages: Turkish (native); English (advanced); German (beginner) 
+* Languages: Turkish (native); English (advanced); German (beginner) 
 * Methodologies: Agile, Scrum, PMP, ITIL, ITSM 
 * Technologies: Git, Reach JS, React Native, ServiceNow, Outsystems 
 * Programming Languages: C++, C#, JavaScript, Python, CSS, HTML, SQL
