@@ -19,4 +19,4 @@ I am Ceyda. A junior software engineer who recently graduated.
 
 ![Profile views](https://gpvc.arturio.dev/cduzgec)  
 
-[Spoti](https://spotify-github-profile.vercel.app/api/view.svg?uid=c.duzgec&cover_image=true&theme=natemoo-re&bar_color=3a88fe&bar_color_cover=false)
+(https://spotify-github-profile.vercel.app/api/view.svg?uid=c.duzgec&cover_image=true&theme=natemoo-re&bar_color=3a88fe&bar_color_cover=false)
