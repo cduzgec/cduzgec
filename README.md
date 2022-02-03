@@ -17,3 +17,5 @@ I am Ceyda. A junior software engineer who recently graduated.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cduzgec)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/cduzgec)  
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=c.duzgec&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=c.duzgec&cover_image=true&theme=default&bar_color_cover=false&bar_color=3a88fe)]]
