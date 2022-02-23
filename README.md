@@ -12,7 +12,7 @@ I am Ceyda. A junior software engineer who recently graduated.
 * Technologies: Git, Reach JS, React Native, ServiceNow, Outsystems 
 * Programming Languages: C++, C#, JavaScript, Python, CSS, HTML, SQL
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=c.duzgec&count=1)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c.duzgec&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ![https://spotify-github-profile.vercel.app/api/view.svg?uid=c.duzgec&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=c.duzgec&cover_image=true&theme=natemoo-re&bar_color=3a88fe&bar_color_cover=true)
 
