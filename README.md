@@ -12,8 +12,7 @@ I am Ceyda. A junior software engineer who recently graduated.
 * Technologies: Git, Reach JS, React Native, ServiceNow, Outsystems 
 * Programming Languages: C++, C#, JavaScript, Python, CSS, HTML, SQL
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cduzgec)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cduzgec/) 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=c.duzgec&count=1)
 
 ![https://spotify-github-profile.vercel.app/api/view.svg?uid=c.duzgec&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=c.duzgec&cover_image=true&theme=natemoo-re&bar_color=3a88fe&bar_color_cover=true)
 
@@ -21,4 +20,5 @@ I am Ceyda. A junior software engineer who recently graduated.
 
 ![Profile views](https://gpvc.arturio.dev/cduzgec)  
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cduzgec)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cduzgec/) 
