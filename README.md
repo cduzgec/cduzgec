@@ -13,10 +13,12 @@ I am Ceyda. A junior software engineer who recently graduated.
 * Programming Languages: C++, C#, JavaScript, Python, CSS, HTML, SQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cduzgec)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cduzgec/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cduzgec/) 
+
+![https://spotify-github-profile.vercel.app/api/view.svg?uid=c.duzgec&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=c.duzgec&cover_image=true&theme=natemoo-re&bar_color=3a88fe&bar_color_cover=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cduzgec)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/cduzgec)  
 
-![https://spotify-github-profile.vercel.app/api/view.svg?uid=c.duzgec&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=c.duzgec&cover_image=true&theme=natemoo-re&bar_color=3a88fe&bar_color_cover=false)
+
